@@ -2,8 +2,8 @@
 
 A lightweight, token-saving setup for building large Unity (or any codebase) projects with AI coding agents—without burning through usage limits or letting an IDE agent turn your architecture into spaghetti.
 
-* **Video 1 (The Game Showcase):** `[Add YouTube Link Here]`
-* **Video 2 (Full Workflow Walkthrough):** `[Add YouTube Link Here]`
+* **Video 1 (The Game Showcase):** `[Coming Soon`
+* **Video 2 (Full Workflow Walkthrough):** `[Coming Soon]`
 * **Devlog Timeline:** [Syndicate Hockey 2078 Devlog](https://nairbynairb.github.io/SyndicateHockey2078/timeline.html)
 
 ---
